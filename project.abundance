@@ -182,8 +182,8 @@
         {
             "atomType": "Export",
             "name": "Export",
-            "x": 0.8231292517006803,
-            "y": 0.26299694189602446,
+            "x": 0.8208333333333333,
+            "y": 0.30073349633251834,
             "uniqueID": 1743640358052,
             "ioValues": [
                 {
@@ -207,7 +207,7 @@
             "type": null,
             "resolution": 96,
             "importIndex": 0,
-            "fileName": null
+            "partName": "My-First-Project"
         }
     ],
     "allConnectors": [
